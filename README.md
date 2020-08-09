@@ -7,4 +7,4 @@ Step 2: [Note: you can skip this step if you want to detect face mask through we
 
 Step 3: If you want live face mask detection than skip the step 2 and run the **main.py** file
 
-Connect me on [LinkedIn](#linkedin.com/in/haxora)
+Connect me on [LinkedIn](#https://linkedin.com/in/haxora)

@@ -47,7 +47,7 @@ class Inference:
 if __name__ == "__main__":
 
     # img = 'cat1.jpg'
-    img = 'without_mask1.jpg'
+    img = 'sample_images/without_mask1.jpg'
 
     prediction = Inference()
     prediction_res = prediction.predict(img)
